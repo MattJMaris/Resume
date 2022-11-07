@@ -1,0 +1,30 @@
+.solid{
+    border-style: solid;
+    width:fit-content ;
+}
+p { 
+    margin: 35px;
+}
+.tab{
+    display: inline-block;
+    margin-left: 50px
+}
+.underLine{ 
+    text-decoration-line: underline;
+}
+h3 {
+    margin: 50px;
+}
+li {
+    margin: 15px;
+}
+.left {
+    margin-left: 15px;
+}
+#abs {
+    position: absolute;
+    width: 1100px;
+    height: 1100px;
+    top: 80;
+    left: 50px;
+}
